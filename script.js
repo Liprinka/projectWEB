@@ -3,7 +3,7 @@ $(document).ready(function() {
       infinite: true,
       speed: 500, // Скорость анимации при переключении слайда
       prevArrow: $("#feedback-previous"),// на пред слайд
-      nextArrow: $("#feedback-next"),//след слайд
+      nextArrow: $("#feedback-next"),//след слайды
       fade: true,
       swipe: false, 
       draggable: false,
